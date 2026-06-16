@@ -23,7 +23,7 @@ Boundary conditions are $U = 1$ for top wall and $U = 0$ for the rest. $\Theta_l
 
 ## Results
 
-$Ri = \frac{Gr}{Re^2}$ and $Pe = RePr$. Gr stands for Grashof number which is defined by: 
+$Ri = \frac{Gr}{Re^2}$ and $Pe = RePr$. $Gr$ stands for Grashof number which is defined by: 
 
 $$
 Gr = \frac{g\beta L^3 (T_h - T_c)}{\nu ^2}
@@ -51,7 +51,7 @@ g++ -ggdb3 -O1 -std=c++23 -Wall -Wextra -pedantic -o sfvEnergyCavity.out sfvEner
 
 <div align="center">
     <img src="images/sf.png" alt="Alt text" width="300" />
-    <p style="font-size: 14px; color: #555;">Stream functions at Re = 100 and Gr = 1000 Case</p>
+    <p style="font-size: 14px; color: #555;">Stream functions at $Re$ = 100 and $Gr$ = 1000 Case</p>
 </div>
 
 
