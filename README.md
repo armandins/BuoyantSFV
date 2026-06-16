@@ -45,13 +45,13 @@ g++ -ggdb3 -O1 -std=c++23 -Wall -Wextra -pedantic -o sfvEnergyCavity.out sfvEner
 
 <div align="center">
     <img src="images/thetaa.png" alt="Alt text" width="300" />
-    <p style="font-size: 14px; color: #555;">Temperature variations at Re = 100 and Gr = 1000 Case</p>
+    <p style="font-size: 14px; color: #555;">Temperature variations at $Re = 100$ and $Gr = 1000$ Case</p>
 </div>
 
 
 <div align="center">
     <img src="images/sf.png" alt="Alt text" width="300" />
-    <p style="font-size: 14px; color: #555;">Stream functions at $Re$ = 100 and $Gr$ = 1000 Case</p>
+    <p style="font-size: 14px; color: #555;">Stream functions at $Re = 100$ and $Gr = 1000$ Case</p>
 </div>
 
 
